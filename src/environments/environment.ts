@@ -3,6 +3,15 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
+  firebase: {
+    projectId: 'catbusdemo',
+    appId: '1:634848158704:web:ab94904d6e42709d1ab335',
+    storageBucket: 'catbusdemo.appspot.com',
+    apiKey: 'AIzaSyAZY9URTvfCkhOaHL1n-Yq6O9Oe1_vKcCM',
+    authDomain: 'catbusdemo.firebaseapp.com',
+    messagingSenderId: '634848158704',
+    measurementId: 'G-5WN9WEH3ZQ',
+  },
   production: false
 };
 
